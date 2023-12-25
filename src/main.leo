@@ -1,4 +1,4 @@
-// The 'templateankara' program.
+// The 'templateankaramel2357' program.
 program templateankaramel2357.aleo {
     mapping account: address => u64;
 
